@@ -1,6 +1,6 @@
 import streamlit as st
 import sqlite3 as sql
-from typing import Literal
+
 
 # reduce padding
 def reduce_space():
